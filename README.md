@@ -17,4 +17,4 @@ Besure to __complete__ the notebooks and __commit__ back.
   + required files can be found [here](https://github.com/fairfield-university-ba545/2019-Competition1)
 
 + mini-project#2 Part1  __DUE TODAY__
-+ mini-project#1 Part2 available! __Due 2/15__
++ mini-project#1 Part2 available! __Due 2/25__
