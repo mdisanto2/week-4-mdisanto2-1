@@ -1,4 +1,4 @@
-# This week's Schedule (2/17 - 2/23)
+# This week's Schedule (2/9 - 2/15)
 
 ## Lecture
 + [Data Exploration](https://docs.google.com/presentation/d/1uaYzABPwyQ-4R9RoNkET0bUEcl7wYDXmXAflEln1lyQ/edit?usp=sharing)
